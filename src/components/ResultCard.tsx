@@ -1,6 +1,6 @@
 import React from "react";
 import { Result } from "../types";
-import { Trophy, Medal, Award, User, Hash, BookOpen, Star, CheckCircle, Heart, Sparkles } from "lucide-react";
+import { Trophy, Medal, Award, User, Hash, BookOpen, Star, CheckCircle, Heart, Sparkles, Calendar, Clock } from "lucide-react";
 import { getCategoryColor, getGradeColor } from "../utils/contestStats";
 
 interface ResultCardProps {
